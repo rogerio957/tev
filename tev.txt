@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="Rede Brasil de Televisão - RBTV Ao Vivo 
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w992019253.m3u8
